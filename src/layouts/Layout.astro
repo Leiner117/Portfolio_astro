@@ -70,6 +70,31 @@ const { title } = Astro.props;
 			display: block !important;
 		}
 	}
+	astro-dev-toolbar{
+		display-inside: avoid;
+	}
+	article{
+		break-inside: avoid;
+	}
+	@media (prefers-color-scheme: dark){
+		html{
+			background: #202020;
+			color: #fff;
+		}
+		p{
+			color: #fff;
+			font-size: .9rem;
+			line-height: 1.5;
+			margin: 0;
+			text-wrap: pretty;	
+		}
+		h1,h2,h3,h4,h5,h6{
+			color: #fff;
+		}
+
+
+	}
+
 
 	
 </style>

@@ -89,7 +89,6 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(' | ');
         align-items: center;
         flex-direction: row;
         gap: 1rem;
-        padding: 32px;
     }
 
     .info{
@@ -143,5 +142,17 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(' | ');
     footer a:hover{
         background: #52d4eb;
     }
+   @media (prefers-color-scheme: dark){
+        h2{
+            color: #fff;
+        }
+        span{
+            color: #fff;
+        }
+        footer a{
+            color: #fff;
+            border-color: #444;
+        }
+   } 
     
 </style>
