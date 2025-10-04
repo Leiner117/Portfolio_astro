@@ -10,9 +10,9 @@ import {work} from "@cv";
                 const startYear = new Date(startDate).getFullYear();
                 const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
                 const startMonth = monthNames[new Date(startDate).getMonth()];
-                const endMonth = endDate ? monthNames[new Date(endDate).getMonth()] : "Present";
-                const endYear = endDate ? new Date(endDate).getFullYear() : "Present";
-                const year = `${startMonth} ${startYear} - ${endMonth} ${endYear}`
+                const year = endDate 
+                    ? `${startMonth} ${startYear} - ${monthNames[new Date(endDate).getMonth()]} ${new Date(endDate).getFullYear()}`
+                    : `${startMonth} ${startYear} - Present`
 
                 return (
                     <li>
