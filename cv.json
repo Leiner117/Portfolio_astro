@@ -1,176 +1,202 @@
 {
-    "basics": {
-        "name": "Leiner Alvarado Rodriguez",
-        "label": "Computer engineering student, interested in backend and deep learning Developer",
-        "image": "https://i.pinimg.com/736x/2d/21/22/2d21222fdd625ceb7f37aac0855a96d3.jpg",
-        "email": "leineralvarador117@gmail.com",
-        "phone": "(506) 63715086",
-        "url": "",
-        "summary": "I am currently studying computer engineering at the Tecnologico de Costa Rica, I have done different jobs outside the field of technology that have helped me to improve my skills.",
-        "location": {
-            "address": "",
-            "postalCode": "20208",
-            "city": "San Ramon",
-            "countryCode": "CR",
-            "region": "Alajuela"
-        },
-        "profiles": [
-            {
-                "network": "Linkedin",
-                "username": "Leiner Alvarado",
-                "url": "https://www.linkedin.com/in/leiner-alvarado-357725247"
-            },
-            {
-                "network": "GitHub",
-                "username": "Leiner117",
-                "url": "https://github.com/Leiner117"
-            }
-        ]
+  "basics": {
+    "name": "Leiner Alvarado Rodriguez",
+    "label": "Computer Engineering Student | Fullstack & Unity Developer | Data Enthusiast",
+    "image": "https://i.pinimg.com/736x/2d/21/22/2d21222fdd625ceb7f37aac0855a96d3.jpg",
+    "email": "leineralvarador117@gmail.com",
+    "phone": "(506) 63715086",
+    "url": "",
+    "summary": "Final-year Computer Engineering student at the Costa Rica Institute of Technology, with hands-on experience in full-stack web development, Unity projects, and a solid foundation in data analysis. Currently strengthening skills in Python, SQL, Snowflake, and Databricks. Motivated to apply analytical and technical expertise in a professional setting through a Data Analyst or Software Developer role.",
+    "location": {
+      "address": "",
+      "postalCode": "20208",
+      "city": "San Ramon",
+      "countryCode": "CR",
+      "region": "Alajuela"
     },
-    "work": [
-        {
-            "name": "TransGaby",
-            "position": "Administrative Assistant",
-            "url": "https://m.facebook.com/p/Trans-Gaby-Tours-and-Transfer-100057474068755/",
-            "startDate": "2022-01-10",
-            "endDate": "2022-06-15",
-            "summary": "responsible for the registration of trips made, pending payments, payment of payrolls, registration of statisticians and management of governmental procedures.",
-            "highlights": [
-                "Started the company"
-            ]
-        },
-        {
-            "name": "Super San Lorenzo",
-            "position": "Cashier",
-            "url": "",
-            "startDate": "2022-03-01",
-            "endDate": "2022-07-10",
-            "summary": "responsible for the registration of sales, customer service, and management of the cash register.",
-            "highlights": [
-                "Started the company"
-            ]
-        }
-    ],
-    "volunteer": [
-        {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "url": "https://organization.com/",
-            "startDate": "2012-01-01",
-            "endDate": "2013-01-01",
-            "summary": "Description…",
-            "highlights": [
-                "Awarded 'Volunteer of the Month'"
-            ]
-        }
-    ],
-    "education": [
-        {
-            "institution": "Tecnologico de Costa Rica",
-            "url": "https://www.tec.ac.cr",
-            "area": "computer engineering",
-            "studyType": "Bachelor",
-            "startDate": "2022-02-08",
-            "endDate": null,
-            "score": "8.0",
-            "courses": [
-                "DB1101 - Basic SQL"
-            ]
-        }
-    ],
-    "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
-    "certificates": [
-        {
-            "name": "Principiante en Programación",
-            "date": "2023-01-30",
-            "issuer": "Alura Cursos Online",
-            "url": "https://app.aluracursos.com/degree/certificate/190d63d6-2b9c-465a-b8f6-80e1004be4e4"
-        }
-    ],
-    "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "url": "https://publication.com",
-            "summary": "Description…"
-        }
-    ],
-    "skills": [
-        {
-            "name": "Python Development",
-            "level": "Junior",
-            "keywords": [
-                "Flask",
-                "Pandas",
-                "Numpy",
-                "Matplotlib",
-                "Tensorflow",
-                "Keras",
-                "OpenCV"
-            ]
-        },
-        {
-            "name": "Java Development",
-            "level": "Junior",
-            "keywords": [
-                "Maven"
-            ]
-        },
-        {
-            "name": "C++ Development",
-            "level": "Junior",
-            "keywords": []
-        }
-    ],
-    "languages": [
-        {
-            "language": "English",
-            "fluency": "Basic"
-        },
-        {
-            "language": "Spanish",
-            "fluency": "Native"
-        }
-    ],
-    "interests": [
-        {
-            "name": "Wildlife",
-            "keywords": [
-                "Ferrets",
-                "Unicorns"
-            ]
-        }
-    ],
-    "references": [
-        {
-            "name": "Jane Doe",
-            "reference": "Reference…"
-        }
-    ],
-    "projects": [
-        {
-            "name": "TransGaby Management System",
-            "startDate": "2023-08-01",
-            "endDate": "2023-11-16",
-            "description": "Travel, payment, vehicles and statistics management system using Astro, React, Flask and MySQL A system that allows the management of the company's trips, payments, and payroll.",
-            "highlights": [],
-            "url": "https://github.com/Leiner117/second-database-project/tree/main/database%20project"
-        },
-        {
-            "name": "TEC MAP",
-            "startDate": "2023-04-01",
-            "endDate": "2023-06-05",
-            "description": "Interactive map to guide you through the San Carlos Local campus, using QGIS and PostgreSQL",
-            "highlights": [],
-            "url": "https://github.com/Leiner117/IOTProject"
-        }
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "Leiner Alvarado",
+        "url": "https://www.linkedin.com/in/leiner-alvarado-357725247"
+      },
+      {
+        "network": "GitHub",
+        "username": "Leiner117",
+        "url": "https://github.com/Leiner117"
+      }
     ]
+  },
+  "work": [
+    {
+      "name": "Bufost",
+      "position": "Fullstack Developer",
+      "url": "",
+      "startDate": "2025-04-01",
+      "endDate": null,
+      "summary": "Developed responsive websites and SaaS platforms with Next.js, TypeScript, Firebase, and secure integrations.",
+      "highlights": [
+        "Developed a responsive tourism company website using Next.js, TypeScript, and Firebase with SEO optimization.",
+        "Implemented Firebase Cloud Functions and optimized Firestore queries to reduce client costs.",
+        "Contributed to a SaaS platform for medical clinics with secure PayPal integration.",
+        "Collaborated under Scrum methodology with Jira for sprint planning."
+      ]
+    },
+    {
+      "name": "Tecnológico de Costa Rica",
+      "position": "Unity Developer",
+      "url": "https://www.tec.ac.cr",
+      "startDate": "2024-02-01",
+      "endDate": null,
+      "summary": "Unity developer in a multidisciplinary team building a metaverse project for the Costa Rica Institute of Technology.",
+      "highlights": [
+        "Built C# scripts for spatial audio, player movement, and server synchronization.",
+        "Configured multiplayer functionality using Unity Game Services for real-time interaction."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tecnologico de Costa Rica",
+      "url": "https://www.tec.ac.cr",
+      "area": "computer engineering",
+      "studyType": "Bachelor",
+      "startDate": "2022-02-08",
+      "endDate": null,
+      "score": "8.0",
+      "courses": [
+        "Software Design",
+        "Project Management",
+        "Artificial Intelligence",
+        "Data Analysis"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Principiante en Programación",
+      "date": "2023-01-30",
+      "issuer": "Alura Cursos Online",
+      "url": "https://app.aluracursos.com/degree/certificate/190d63d6-2b9c-465a-b8f6-80e1004be4e4"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python Development",
+      "level": "Junior",
+      "keywords": [
+        "Flask",
+        "Pandas",
+        "Numpy",
+        "Matplotlib",
+        "Tensorflow",
+        "Keras",
+        "OpenCV"
+      ]
+    },
+    {
+      "name": "Java Development",
+      "level": "Junior",
+      "keywords": [
+        "Maven"
+      ]
+    },
+    {
+      "name": "React Development",
+      "level": "Junior",
+      "keywords": [
+        "React",
+        "Redux",
+        "Next.js"
+      ]
+    },
+    {
+      "name": "Additional Skills",
+      "level": "Intermediate",
+      "keywords": [
+        "SQL",
+        "TypeScript",
+        "C#",
+        "Snowflake",
+        "Databricks",
+        "React",
+        "Next.js",
+        "Firebase",
+        "PySpark"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "B1"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "TransGaby Management System",
+      "startDate": "2023-08-01",
+      "endDate": "2023-11-16",
+      "description": "Travel, payment, vehicles and statistics management system using Astro, React, Flask and MySQL. A system that allows the management of the company's trips, payments, and payroll.",
+      "highlights": [],
+      "url": "https://github.com/Leiner117/second-database-project/tree/main/database%20project"
+    },
+    {
+      "name": "TEC MAP",
+      "startDate": "2023-04-01",
+      "endDate": "2023-06-05",
+      "description": "Interactive map to guide you through the San Carlos Local campus, using QGIS and PostgreSQL",
+      "highlights": [],
+      "url": "https://github.com/Leiner117/IOTProject"
+    }
+  ]
 }
