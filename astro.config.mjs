@@ -3,6 +3,9 @@ import { defineConfig } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
     site: 'https://leineralvarado.dev',
+    devToolbar: {
+        enabled: false
+    },
     server: {
         host: true,
         port: 4321
